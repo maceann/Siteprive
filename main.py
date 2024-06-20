@@ -1,1 +1,2 @@
-print("Elle veut m  ngé du pain")
+print("Elle veut mangé du pain")
+print (" Mais lui veut des pains au chocolat")
